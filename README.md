@@ -2,7 +2,7 @@
 
 Flutter 2.0  demo 实现。。
 
-![](/doc/Simulator Screen Shot - iPhone 12 Pro Max - 2021-04-01 at 17.34.17.png)
+![screen](/doc/img/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202021-04-01%20at%2017.34.17.png)
 
 A new Flutter application.
 
